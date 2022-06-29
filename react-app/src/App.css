@@ -1,0 +1,14 @@
+body {
+  border : 5px solid black;
+  border-radius: 10px;
+  background-color: #ccc;
+}
+
+.c{
+  text-align: center;
+  color: white;
+}
+
+.d{
+  list-style: none;
+}
